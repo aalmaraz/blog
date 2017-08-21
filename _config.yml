@@ -8,7 +8,6 @@
 # Site settings
 title: Angie Tigger
 email: aalmrazg7@gmail.com
-theme: jekyll-theme-merlot
 #description: > # this means to ignore newlines until "baseurl:"
 #  Enthusiast of new technologies, I like to develop and design 
 #  apps for Mobile/Web Platforms, integrating IoT (Internet of Things),
@@ -18,6 +17,6 @@ url: "https://aalmaraz.github.io/blog/" # the base hostname & protocol for your 
 github_username:  aalmaraz
 # Build settings
 markdown: kramdown
-#paginate: 7
+paginate: 7
 # Gems
 gems: [jekyll-paginate]
